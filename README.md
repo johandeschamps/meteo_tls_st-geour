@@ -1,6 +1,6 @@
-# meteo_tls_st-geour
+# Météo Toulouse & Saint Geours-de-Maremne
 
-Application à pour but d'afficher la météo de Toulouse et de Saint-Geours-de-Maremne.
+L'application à pour but d'afficher la météo de Toulouse et de Saint-Geours-de-Maremne.
 
 ## Installation
 
