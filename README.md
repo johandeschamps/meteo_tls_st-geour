@@ -1,6 +1,7 @@
 # Météo Toulouse & Saint Geours-de-Maremne
 
-L'application à pour but d'afficher la météo de Toulouse et de Saint-Geours-de-Maremne via un API.
+L'application à pour but d'afficher la météo de Toulouse et 
+Saint-Geours-de-Maremne via un API.
 
 ## Installation
 
@@ -10,7 +11,7 @@ L'application à pour but d'afficher la météo de Toulouse et de Saint-Geours-d
    ```
   
 ### 2. Mettre en place un environnement virtuel :
-* Créer l'environnement virtuel: 
+* Créer l'environnement virtuel : 
 * Activer l'environnement virtuel :
     * Windows : `venv\Scripts\activate.bat`
     * Unix/MacOS : `source venv/bin/activate`
